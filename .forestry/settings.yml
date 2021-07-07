@@ -19,8 +19,8 @@ sections:
   templates:
   - project
 - type: directory
-  path: journal
-  label: Journal
+  path: writing
+  label: Writing
   create: documents
   match: "**/*.md"
   templates:
