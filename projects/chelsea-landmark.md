@@ -15,4 +15,4 @@ Other blockchain protocols require powerful infrastructure to run the network no
 
 Mina's SNARK-powered decentralized apps (snapps) enable a new way for users to keep control of their own data - by validating and sharing proofs to third parties instead of the data itself. Logic and data can be computed off-chain and verified on-chain allowing snapps to scale to large computations efficiently and cost effectively.
 
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+![](/uploads/mina-logo.png)
