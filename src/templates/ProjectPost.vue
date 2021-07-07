@@ -8,7 +8,7 @@
           <h1 class="project-title" v-html="$page.post.title" />
           <div class="project-info">
 
-            <div class="categories-container">
+            <!-- <div class="categories-container">
               <div class="categories">
                 <span class="label">Categories</span>
                 <span 
@@ -25,7 +25,7 @@
               <div v-html="$page.post.date"/>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <div v-html="$page.post.content" class="content" />
 

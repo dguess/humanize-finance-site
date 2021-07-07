@@ -1,7 +1,6 @@
 ---
 title: Mina
 thumbnail: "/uploads/mina-logo.png"
-categories: []
 project_bg_color: "#000000"
 project_fg_color: "#F9BAC5"
 
