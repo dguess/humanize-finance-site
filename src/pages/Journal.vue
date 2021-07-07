@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+          Writing and research from the Humanize Finance team.
         </h1>
       </div>
     </div>
