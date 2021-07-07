@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
+thumbnail: "/uploads/solana-logo.png"
 title: Solana
 date: '2019-02-06'
 categories:
@@ -9,4 +9,4 @@ project_bg_color: "#EDEDED"
 project_fg_color: "#42BA96"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
+![](/uploads/solana-logo.png)
