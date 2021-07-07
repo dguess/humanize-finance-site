@@ -40,5 +40,4 @@ fields:
   default: []
   label: Tags
 pages:
-- journal/macos-development-environment.md
 - writing/how-to-monitor-a-mina-node.md
