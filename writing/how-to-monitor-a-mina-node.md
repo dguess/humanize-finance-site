@@ -13,3 +13,5 @@ If you decide to take the leap and become a Mina Node validator an important con
 Luckily, if you have a bit of time on your hands it's easy to setup and within no time you'll have a shiny new dashboard to monitor your node with alerts going to Discord and peace of mind.
 
 You can follow the guide here to get started: [https://github.com/dguess/mina-node-dashboard](https://github.com/dguess/mina-node-dashboard "https://github.com/dguess/mina-node-dashboard")
+
+![](/uploads/screenshot-dashboard1.png)
