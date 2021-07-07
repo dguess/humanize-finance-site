@@ -4,13 +4,15 @@ year: 2019
 title: Stake your Mina
 category: Identity
 thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
-categories:
-- mina
-- staking
-project_bg_color: "#E1E1E1"
-project_fg_color: ''
+categories: []
+project_bg_color: "#000000"
+project_fg_color: "#F9BAC5"
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
+**Mina** protocol has a unique design that enables participants to quickly synchronize to the network and verify the blockchain.   
+  
+Other blockchain protocols require powerful infrastructure to run the network nodes resulting in the creation of centralized intermediaries. Mina is light-weight by design so that anyone can connect peer-to-peer and quickly synchronise and verify the blockchain. It is built using a consistent sized cryptographic proof, so even as the blockchain scales it remains accessible for all participants.
+
+Mina's SNARK-powered decentralized apps (snapps) enable a new way for users to keep control of their own data - by validating and sharing proofs to third parties instead of the data itself. Logic and data can be computed off-chain and verified on-chain allowing snapps to scale to large computations efficiently and cost effectively.
 
 ![](/uploads/mike-dorner-173502-unsplash.jpg)
