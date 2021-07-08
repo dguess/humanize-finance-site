@@ -3,6 +3,7 @@ title: Mina
 thumbnail: "/uploads/mina-logo.png"
 project_bg_color: "#000000"
 project_fg_color: "#F9BAC5"
+order: 1
 
 ---
 **Mina** protocol has a unique design that enables participants to quickly synchronize to the network and verify the blockchain.
