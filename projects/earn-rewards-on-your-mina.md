@@ -1,5 +1,5 @@
 ---
-title: Earn rewards on your Mina
+title: More soon..
 thumbnail: "/uploads/mina-logo.png"
 categories: []
 project_bg_color: "#000000"
