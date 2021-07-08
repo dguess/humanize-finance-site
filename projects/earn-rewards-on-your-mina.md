@@ -1,5 +1,5 @@
 ---
-title: More soon..
+title: More soon.. 3
 thumbnail: "/uploads/mina-logo.png"
 categories: []
 project_bg_color: "#000000"
