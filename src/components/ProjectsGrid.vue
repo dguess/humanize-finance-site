@@ -7,7 +7,6 @@
                 :alt="item.node.title"
                 class="thumbnail"
             />
-            <h3>{{ item.node.id }}</h3>
             <h3 class="project-title">{{ item.node.title }}</h3>
             </g-link>
         </div>
