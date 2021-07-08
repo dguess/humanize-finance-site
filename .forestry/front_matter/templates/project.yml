@@ -21,3 +21,13 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: order
+  type: number
+  label: Order
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 0
+    max: 100
+    step: 1
