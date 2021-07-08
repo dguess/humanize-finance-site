@@ -1,9 +1,13 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
+thumbnail: "/uploads/solana-logo.png"
 title: 'Solana '
-project_bg_color: ''
-project_fg_color: ''
+project_bg_color: "#000000"
+project_fg_color: "#42BA96"
 order: 2
 
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+### What is Solana?
+
+### How to stake your Solana?
+
+**Staking coming soon!**
