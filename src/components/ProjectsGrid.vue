@@ -1,6 +1,6 @@
 <template>
     <div class="projects">
-        <div class="project" v-for="item in projects" :key="item.node.id">
+        <div class="project" v-for="item in sortedProjects" :key="item.node.id">
             <g-link :to="item.node.path" class="project-link">
             <g-image
                 :src="item.node.thumbnail"
@@ -20,7 +20,12 @@ export default {
             type: Array,
             required: true
         }
+    },
+  computed: {
+    sortedProjects: function () {
+      return this.projects.sort((a, b) => a.order > b.order)
     }
+  }
 }
 </script>
 
