@@ -20,12 +20,12 @@ Mina's SNARK-powered decentralized apps (snapps) enable a new way for users to k
 
 The public key to stake your Mina with **Humanize Finance** is:
 
-B62qnR2AHmcnyb7v3cVvuZWriEnArx7yMkXBcnzpFQXCmGxAAv4nJSV
+> B62qnR2AHmcnyb7v3cVvuZWriEnArx7yMkXBcnzpFQXCmGxAAv4nJSV
 
 Our validator fee is 5%
 
 ### Why stake with Humanize Finance?
 
-* Humanize Finance is a Mina Genesis Founding Member 
+* Humanize Finance is a Mina Genesis Founding Member
 * Humanize Finance is a Top 120 Validator by uptime
 * Humanize Finance offers fast and efficient support
