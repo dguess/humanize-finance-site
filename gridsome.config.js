@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Humanize Finance",
+  siteUrl: `https://humanize.finance`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s",
+  siteDescription: "The easiest way to earn rewards on your crypto. Crypto staking designed for humans.",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
