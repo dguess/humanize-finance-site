@@ -17,6 +17,7 @@ query Posts {
         title
         thumbnail (quality: 90)
         path
+        order
       }
     }
   },
@@ -26,6 +27,7 @@ query Posts {
         id
         path
         title
+        order
       }
     }
   }
