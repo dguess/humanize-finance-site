@@ -23,8 +23,7 @@ export default {
     },
     computed: {
       sortedProjects: function () {
-        return _.orderBy(this.projects, 'node.order')
-        // return this.projects.sort((a, b) => a.node.order > b.node.order)
+        return this.projects.sort((a, b) => a.node.order - b.node.order)
       }
     }
 }

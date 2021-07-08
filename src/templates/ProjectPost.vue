@@ -6,9 +6,9 @@
 
         <div class="project-header">
           <h1 class="project-title" v-html="$page.post.title" />
-          <div class="project-info">
-        <div v-html="$page.post.content" class="content" />
-
+          <div class="project-info"/>
+          <div v-html="$page.post.content" class="content" />
+        </div>
       </div>
 
     </div>
