@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: More soon..
+title: Solana
 project_bg_color: ''
 project_fg_color: ''
 
