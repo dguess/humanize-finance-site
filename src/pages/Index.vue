@@ -27,7 +27,6 @@ query Posts {
         id
         path
         title
-        order
       }
     }
   }
