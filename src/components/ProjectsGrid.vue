@@ -7,6 +7,7 @@
                 :alt="item.node.title"
                 class="thumbnail"
             />
+            <h3>{{ item.node.order }}<h3/>
             <h3 class="project-title">{{ item.node.title }}</h3>
             </g-link>
         </div>
@@ -21,11 +22,11 @@ export default {
             required: true
         }
     },
-  computed: {
-    sortedProjects: function () {
-      return this.projects.sort((a, b) => a.order > b.order)
+    computed: {
+      sortedProjects: function () {
+        return this.projects.sort((a, b) => a.node.order > b.node.order)
+      }
     }
-  }
 }
 </script>
 
