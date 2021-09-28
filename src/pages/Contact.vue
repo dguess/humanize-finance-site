@@ -6,7 +6,7 @@
         <h1 class="contact-title">Say Hello!</h1>
         <p>Please get in touch with any questions you might have, we'll get back to you as soon as possible. You can reach us at:</p>
         <ul>
-          <li>email at <a href="david@humanize.finance">david@humanize.finance</a></li>          
+          <li>email at <a href="mailto:david@humanize.finance">david@humanize.finance</a></li>          
           <li>on discord `davidg#1063`</li>
         </ul>
       </div>
