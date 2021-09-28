@@ -4,10 +4,14 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Say Hello!</h1>
-        <p>Leave us a note with any questions you might have, we'll get back to you as soon as possible. Alternatively chat with us over on discord `davidg#1063`</p>
+        <p>Please get in touch with any questions you might have, we'll get back to you as soon as possible. You can reach us at:</p>
+        <ul>
+          <li>email at <a href="david@humanize.finance">david@humanize.finance</a></li>          
+          <li>on discord `davidg#1063`</li>
+        </ul>
       </div>
 
-      <form class="contact-form" name="contact">
+      <!-- <form class="contact-form" name="contact">
 
         <div class="sender-info">
           <div>
@@ -27,7 +31,7 @@
 
         <button class="button">Submit form</button>
 
-      </form>
+      </form> -->
 
     </div>
   </Layout>
